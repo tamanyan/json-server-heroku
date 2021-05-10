@@ -100,7 +100,7 @@
        "id":"20",
        "title":"Black shirts",
        "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\nIt has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.\nIt was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-       "category":"cloth",
+       "category":"clothes",
        "imageUrl":"/products/clothes/blank-1886001_1920.png",
        "price":10,
        "owner":{
@@ -116,7 +116,7 @@
        "id":"21",
        "title":"Black shirts for women",
        "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\nIt has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.\nIt was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-       "category":"cloth",
+       "category":"clothes",
        "imageUrl":"/products/clothes/black-shirts.jpeg",
        "price":20,
        "owner":{
@@ -132,7 +132,7 @@
        "id":"22",
        "title":"Red shirts",
        "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\nIt has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.\nIt was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-       "category":"cloth",
+       "category":"clothes",
        "imageUrl":"/products/clothes/blank-1886008_1920.png",
        "price":50,
        "owner":{
@@ -148,7 +148,7 @@
        "id":"23",
        "title":"Nice shirts",
        "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\nIt has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.\nIt was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-       "category":"cloth",
+       "category":"clothes",
        "imageUrl":"/products/clothes/fashion-1283863_1920.jpeg",
        "price":20,
        "owner":{
@@ -164,7 +164,7 @@
        "id":"24",
        "title":"Nice sweater",
        "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\nIt has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.\nIt was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-       "category":"cloth",
+       "category":"clothes",
        "imageUrl":"/products/clothes/man-407095_1920.jpeg",
        "price":30,
        "owner":{
@@ -180,7 +180,7 @@
        "id":"25",
        "title":"Pink shirts",
        "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\nIt has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.\nIt was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-       "category":"cloth",
+       "category":"clothes",
        "imageUrl":"/products/clothes/shirt-2878932_1920.jpeg",
        "price":30,
        "owner":{
