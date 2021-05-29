@@ -1,6 +1,7 @@
 const jsonServer = require('json-server');
 const cookieParser = require('cookie-parser');
 const cors = require('cors');
+const express = require('express');
 const server = jsonServer.create();
 const router = jsonServer.router('db.json');
 const middlewares = jsonServer.defaults();
@@ -11,13 +12,23 @@ const authUser = {
   displayName: 'Taketo Yoshida',
   email: 'taketo@test.com',
   profileImageUrl: '/users/1.png',
-  description: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry',
+  description:
+    'Lorem Ipsum is simply dummy text of the printing and typesetting industry',
 };
 
 server.use(cookieParser());
 server.use(cors());
+server.use(express.json());
 
 server.post('/auth/signin', (req, res) => {
+  if (
+    !(req.body['username'] === 'user' && req.body['password'] === 'password')
+  ) {
+    return res.status(401).json({
+      message: 'Username or password are incorrect',
+    });
+  }
+
   res.cookie('token', 'dummy_token', {
     maxAge: 3600 * 1000,
     httpOnly: true,
@@ -33,22 +44,28 @@ server.post('/auth/signout', (req, res) => {
     domain: 'localhost:3000',
   });
   res.status(200).json({
-    message: 'Sign out successfully'
+    message: 'Sign out successfully',
   });
 });
 
 server.post('/purchases', (req, res) => {
-  if (req.cookies['token'] !== 'dummy_token')
-    return res.status(401).send('Unauthorized');
+  if (req.cookies['token'] !== 'dummy_token') {
+    return res.status(401).json({
+      message: 'Unauthorized',
+    });
+  }
 
   res.status(201).json({
-    message: 'ok'
+    message: 'ok',
   });
 });
 
 server.get('/users/me', (req, res) => {
-  if (req.cookies['token'] !== 'dummy_token')
-    return res.status(401).send('Unauthorized');
+  if (req.cookies['token'] !== 'dummy_token') {
+    return res.status(401).json({
+      message: 'Unauthorized',
+    });
+  }
 
   res.status(200).json(authUser);
 });
