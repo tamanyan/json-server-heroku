@@ -32,7 +32,6 @@ server.post('/auth/signin', (req, res) => {
   res.cookie('token', 'dummy_token', {
     maxAge: 3600 * 1000,
     httpOnly: true,
-    domain: 'localhost',
   });
   res.status(201).json(authUser);
 });
@@ -41,7 +40,6 @@ server.post('/auth/signout', (req, res) => {
   res.cookie('token', '', {
     maxAge: 0,
     httpOnly: true,
-    domain: 'localhost:3000',
   });
   res.status(200).json({
     message: 'Sign out successfully',
