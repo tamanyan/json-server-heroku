@@ -1,3 +1,4 @@
+const process = require("process");
 const jsonServer = require('json-server');
 const cookieParser = require('cookie-parser');
 const cors = require('cors');
@@ -17,7 +18,6 @@ const authUser = {
 };
 
 server.use(cookieParser());
-server.use(cors());
 server.use(express.json());
 
 server.post('/auth/signin', (req, res) => {
@@ -70,4 +70,12 @@ server.get('/users/me', (req, res) => {
 
 server.use(middlewares);
 server.use(router);
-server.listen(port);
+server.listen(port, (err) => {
+  if (err) {
+    console.error(err);
+    process.exit();
+    return;
+  }
+  console.log("Start listening...");
+  console.log('http://localhost:' + port);
+});
