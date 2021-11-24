@@ -11,7 +11,7 @@ const authUser = {
   id: '1',
   username: 'taketo',
   displayName: 'Taketo Yoshida',
-  email: 'taketo@test.com',
+  email: 'taketo@example.com',
   profileImageUrl: '/users/1.png',
   description:
     'Lorem Ipsum is simply dummy text of the printing and typesetting industry',

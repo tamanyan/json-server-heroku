@@ -12,7 +12,7 @@
         "id": 1,
         "username": "taketo",
         "displayName": "Taketo Yoshida",
-        "email": "taketo@test.com",
+        "email": "taketo@example.com",
         "profileImageUrl": "/users/1.png",
         "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
       }
@@ -29,7 +29,7 @@
         "id": 1,
         "username": "taketo",
         "displayName": "Taketo Yoshida",
-        "email": "taketo@test.com",
+        "email": "taketo@example.com",
         "profileImageUrl": "/users/1.png",
         "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
       }
@@ -46,7 +46,7 @@
         "id": 1,
         "username": "taketo",
         "displayName": "Taketo Yoshida",
-        "email": "taketo@test.com",
+        "email": "taketo@example.com",
         "profileImageUrl": "/users/1.png",
         "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
       }
@@ -63,7 +63,7 @@
         "id": 1,
         "username": "taketo",
         "displayName": "Taketo Yoshida",
-        "email": "taketo@test.com",
+        "email": "taketo@example.com",
         "profileImageUrl": "/users/1.png",
         "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
       }
@@ -80,7 +80,7 @@
         "id": 3,
         "username": "kourin",
         "displayName": "Yoshiki Takabayashi",
-        "email": "kourin@test.com",
+        "email": "kourin@example.com",
         "profileImageUrl": "/users/3.png",
         "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
       }
@@ -96,7 +96,7 @@
         "id": 3,
         "username": "kourin",
         "displayName": "Yoshiki Takabayashi",
-        "email": "kourin@test.com",
+        "email": "kourin@example.com",
         "profileImageUrl": "/users/3.png",
         "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
       }
@@ -113,7 +113,7 @@
         "id": 1,
         "username": "taketo",
         "displayName": "Taketo Yoshida",
-        "email": "taketo@test.com",
+        "email": "taketo@example.com",
         "profileImageUrl": "/users/1.png",
         "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
       }
@@ -130,7 +130,7 @@
         "id": 1,
         "username": "taketo",
         "displayName": "Taketo Yoshida",
-        "email": "taketo@test.com",
+        "email": "taketo@example.com",
         "profileImageUrl": "/users/1.png",
         "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
       }
@@ -147,7 +147,7 @@
         "id": 1,
         "username": "taketo",
         "displayName": "Taketo Yoshida",
-        "email": "taketo@test.com",
+        "email": "taketo@example.com",
         "profileImageUrl": "/users/1.png",
         "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
       }
@@ -164,7 +164,7 @@
         "id": 2,
         "username": "takuya",
         "displayName": "Takuya Tejima",
-        "email": "takuya@test.com",
+        "email": "takuya@example.com",
         "profileImageUrl": "/users/2.png",
         "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
       }
@@ -181,7 +181,7 @@
         "id": 2,
         "username": "takuya",
         "displayName": "Takuya Tejima",
-        "email": "takuya@test.com",
+        "email": "takuya@example.com",
         "profileImageUrl": "/users/2.png",
         "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
       }
@@ -198,7 +198,7 @@
         "id": 3,
         "username": "kourin",
         "displayName": "Yoshiki Takabayashi",
-        "email": "kourin@test.com",
+        "email": "kourin@example.com",
         "profileImageUrl": "/users/3.png",
         "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
       }
@@ -215,7 +215,7 @@
         "id": 1,
         "username": "taketo",
         "displayName": "Taketo Yoshida",
-        "email": "taketo@test.com",
+        "email": "taketo@example.com",
         "profileImageUrl": "/users/1.png",
         "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
       }
@@ -232,7 +232,7 @@
         "id": 1,
         "username": "taketo",
         "displayName": "Taketo Yoshida",
-        "email": "taketo@test.com",
+        "email": "taketo@example.com",
         "profileImageUrl": "/users/1.png",
         "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
       }
@@ -249,7 +249,7 @@
         "id": 2,
         "username": "takuya",
         "displayName": "Takuya Tejima",
-        "email": "takuya@test.com",
+        "email": "takuya@example.com",
         "profileImageUrl": "/users/2.png",
         "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
       }
@@ -266,7 +266,7 @@
         "id": 2,
         "username": "takuya",
         "displayName": "Takuya Tejima",
-        "email": "takuya@test.com",
+        "email": "takuya@example.com",
         "profileImageUrl": "/users/2.png",
         "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
       }
@@ -283,7 +283,7 @@
         "id": 3,
         "username": "kourin",
         "displayName": "Yoshiki Takabayashi",
-        "email": "kourin@test.com",
+        "email": "kourin@example.com",
         "profileImageUrl": "/users/3.png",
         "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
       }
@@ -300,7 +300,7 @@
         "id": 3,
         "username": "kourin",
         "displayName": "Yoshiki Takabayashi",
-        "email": "kourin@test.com",
+        "email": "kourin@example.com",
         "profileImageUrl": "/users/3.png",
         "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
       }
@@ -317,7 +317,7 @@
         "id": 3,
         "username": "kourin",
         "displayName": "Yoshiki Takabayashi",
-        "email": "kourin@test.com",
+        "email": "kourin@example.com",
         "profileImageUrl": "/users/3.png",
         "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
       }
@@ -334,7 +334,7 @@
         "id": 3,
         "username": "kourin",
         "displayName": "Yoshiki Takabayashi",
-        "email": "kourin@test.com",
+        "email": "kourin@example.com",
         "profileImageUrl": "/users/3.png",
         "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
       }
@@ -345,7 +345,7 @@
       "id": 1,
       "username": "taketo",
       "displayName": "Taketo Yoshida",
-      "email": "taketo@test.com",
+      "email": "taketo@example.com",
       "profileImageUrl": "/users/1.png",
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
     },
@@ -353,7 +353,7 @@
       "id": 2,
       "username": "takuya",
       "displayName": "Takuya Tejima",
-      "email": "takuya@test.com",
+      "email": "takuya@example.com",
       "profileImageUrl": "/users/2.png",
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
     },
@@ -361,7 +361,7 @@
       "id": 3,
       "username": "kourin",
       "displayName": "Yoshiki Takabayashi",
-      "email": "kourin@test.com",
+      "email": "kourin@example.com",
       "profileImageUrl": "/users/3.png",
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
     }
