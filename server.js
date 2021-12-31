@@ -6,7 +6,7 @@ const express = require('express');
 const server = jsonServer.create();
 const router = jsonServer.router('db.json');
 const middlewares = jsonServer.defaults();
-const port = process.env.PORT || 5000;
+const port = process.env.PORT || 8000;
 const authUser = {
   id: '1',
   username: 'taketo',
